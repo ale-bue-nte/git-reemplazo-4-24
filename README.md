@@ -3,7 +3,7 @@ git-reemplazo-4-24
 
 **Objetivo**\
 Entender Git, ramas, commits, pull requests y merges.\
-
+\
 **Tareas**\
 Cada alumno debe:\
 \
