@@ -6,14 +6,20 @@ Entender Git, ramas, commits, pull requests y merges.\
 
 **Tareas**\
 Cada alumno debe:\
-• Crear una cuenta en GitHub, con el formato `alb-gom-nte` (tres primeras letras del nombre, del apellido, y de Nter)\
+\
+• Crear una cuenta en GitHub, con el formato `alb-gom-nte` (tres primeras letras del nombre, del apellido, y "nte" como final)\
+\
 • Obtener el repositorio (https://github.com/alb-gom-nte/git-reemplazo-4-24) \
 https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository?tool=webui \
 Carpeta destino > botón derecho > "Open Git Bash here" > pegar `git clone https://github.com/alb-gom-nte/git-reemplazo-4-24`\
+\
 • Crear una rama con el formato de nombre `nombre-apellido1`\
+\
 • En la rama local del alumno, añadir a "alumnos.txt" su nombre y apellido (formato `Nombre Apellido1`) en una línea corespondiente a su número\
 Ejemplo: Carlos Bonete cambiará la línea 4 del archivo "alumnos.txt" en su rama local `carlos-bonete` de `1` a `1 Carlos Bonete`\
+\
 • Hacer commit en la rama local del alumno\
+\
 • Cuando tengamos los 17 commits en las 17 ramas locales, todos los alumnos crearán un Pull Request de su rama local a "master", tras cuyos merges el archivo "alumnos.txt" deberá contener los 17 nombres completos, en 17 líneas.\
 \
 **Orden**\
