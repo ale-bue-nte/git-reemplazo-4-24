@@ -9,6 +9,7 @@ Cada alumno debe:\
 • Crear una cuenta en GitHub, con el formato `alb-gom-nte` (tres primeras letras del nombre, del apellido, y de Nter)\
 • Obtener el repositorio (https://github.com/alb-gom-nte/git-reemplazo-4-24) \
 https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository?tool=webui \
+Carpeta destino > botón derecho > "Open Git Bash here" > pegar `git clone https://github.com/alb-gom-nte/git-reemplazo-4-24`\
 • Crear una rama con el formato de nombre `nombre-apellido1`\
 • En la rama local del alumno, añadir a "alumnos.txt" su nombre y apellido (formato `Nombre Apellido1`) en una línea corespondiente a su número\
 Ejemplo: Carlos Bonete cambiará la línea 4 del archivo "alumnos.txt" en su rama local `carlos-bonete` de `1` a `1 Carlos Bonete`\
