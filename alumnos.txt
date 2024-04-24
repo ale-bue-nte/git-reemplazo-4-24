@@ -16,7 +16,7 @@ git-reemplazo-4-24
 11
 12
 13 Juan Luis Ibarreta
-14
+14 Miguel Durán
 15 Guillermo Carrillo
 16 Eduardo Redondo
 17 Pablo Mesa.
