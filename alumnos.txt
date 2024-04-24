@@ -5,12 +5,7 @@ git-reemplazo-4-24
 2
 3 Cristina Ramirez
 4
-<<<<<<< HEAD
 5 
-=======
-=======
-5 Eduardo Redondo
->>>>>>> 02ddad7d387e7fff327f1b9b3153ce801cd11caf
 4 Jacqueline Xiang
 5
 6
@@ -22,12 +17,7 @@ git-reemplazo-4-24
 12
 13 Juan Luis Ibarreta
 14
-<<<<<<< HEAD
-15
-16 Eduardo Redondo
-=======
 15 Guillermo Carrillo
-16
->>>>>>> 02ddad7d387e7fff327f1b9b3153ce801cd11caf
+16 Eduardo Redondo
 17 Pablo Mesa.
 
