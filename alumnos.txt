@@ -2,7 +2,7 @@ git-reemplazo-4-24
 ------------------
 
 1 Carlos Bonete
-2 Yongxia Chen
+2
 3 Cristina Ramirez
 <<<<<<< HEAD
 4
@@ -20,7 +20,7 @@ git-reemplazo-4-24
 12
 13
 14
-15 Guillermo Carrillo
+15
 16
 17 Pablo Mesa.
 
