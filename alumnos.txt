@@ -4,13 +4,15 @@ git-reemplazo-4-24
 1 Carlos Bonete
 2
 3 Cristina Ramirez
-<<<<<<< HEAD
 4
+<<<<<<< HEAD
 5 
 =======
+=======
+5 Eduardo Redondo
+>>>>>>> 02ddad7d387e7fff327f1b9b3153ce801cd11caf
 4 Jacqueline Xiang
 5
->>>>>>> 8719e5005064c7c7518f182859bfb8e9fde25fcd
 6
 7
 8
@@ -18,9 +20,14 @@ git-reemplazo-4-24
 10
 11
 12
-13
+13 Juan Luis Ibarreta
 14
+<<<<<<< HEAD
 15
 16 Eduardo Redondo
+=======
+15 Guillermo Carrillo
+16
+>>>>>>> 02ddad7d387e7fff327f1b9b3153ce801cd11caf
 17 Pablo Mesa.
 
